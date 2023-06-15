@@ -239,7 +239,7 @@ export default {
           {'required': true, 'message': '请填写菜品名称', 'trigger': 'blur'}
         ],
         'categoryId': [
-          {'required': true, 'message': '请选择菜品分类', 'trigger': 'change'}
+          {'required': true, 'message': '请选择菜品分类', 'trigger': 'change'}//
         ],
         'price': [
           {
